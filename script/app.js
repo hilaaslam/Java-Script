@@ -1,4 +1,4 @@
-                        //    DAY 1 APRIL-6
+                        //    DAY 1 
 
 
 // alert("welcome")
@@ -43,10 +43,5 @@
 // num--
 // console.log(num+"6")
 
-                    //    DAY 2 APRIL-7
 
-  var zakatPercentage = 0.025;
-  var YourAmount = +prompt("Enter Your Amount");
-  var result = zakatPercentage * YourAmount ;
-  alert("Your Zakat Value is " + result);
-  console.log("Your Zakat Value is " + result);
+  
